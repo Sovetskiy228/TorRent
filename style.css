@@ -18,3 +18,8 @@ a:hover {
 h4 {
     text-align: right;
 }
+
+p {
+    text-align: center;
+    font-size: 40px;
+}
